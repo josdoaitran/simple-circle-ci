@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/josdoaitran/SimpleCircleCI/issues"
   },
-  "homepage": "https://github.com/josdoaitran/SimpleCircleCI#readme"
+  "homepage": "https://github.com/josdoaitran/SimpleCircleCI#readme",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
 }
