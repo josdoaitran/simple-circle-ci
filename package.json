@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/josdoaitran/SimpleCircleCI#readme",
   "devDependencies": {
-    "jest": "^24.7.1"
+    "jest": "^29.6.1"
   }
 }
